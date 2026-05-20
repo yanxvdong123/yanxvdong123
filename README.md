@@ -2,12 +2,12 @@
   <img src="https://xcrawl.com/logo.svg" alt="XCrawl Logo" width="120"/>
 </p>
 
-<h1 align="center">ðŸ•·ï¸ XCrawl Ecosystem</h1>
+<h1 align="center">XCrawl Ecosystem</h1>
 
 <p align="center">
   <strong>Open-source proxy-based web scraping platform</strong>
   <br/>
-  Residential & datacenter proxies Â· JS rendering Â· AI extraction Â· One SDK for everything
+  Residential & datacenter proxies &middot; JS rendering &middot; AI extraction &middot; One SDK for everything
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-## ðŸš€ Quick Start
+## Quick Start
 
 ```bash
 # Install the Node.js SDK
@@ -39,59 +39,59 @@ const data = await xcrawl.scrape('https://example.com')
 pip install xcrawl-python-sdk
 ```
 
-> ðŸ”‘ Need an API key? â†’ [Get free credits at xcrawl.com](https://xcrawl.com)
+> Need an API key? <a href="https://xcrawl.com">Get free credits at xcrawl.com</a>
 
 ---
 
-## ðŸ“¦ The Stack
+## The Stack
 
-### ðŸŽ¯ Core
+### Core
 
 | Project | What it does | Try it |
 |---------|-------------|--------|
-| [**xcrawl-scraper**](https://github.com/yanxvdong123/xcrawl-scraper) â­ | Node.js SDK â€” proxy rotation, JS rendering, AI extraction | `npm i xcrawl-scraper` |
+| [**xcrawl-scraper**](https://github.com/yanxvdong123/xcrawl-scraper) | Node.js SDK - proxy rotation, JS rendering, AI extraction | `npm i xcrawl-scraper` |
 | [**xcrawl-python-sdk**](https://github.com/yanxvdong123/xcrawl-python-sdk) | Python SDK for XCrawl | `pip install xcrawl-python-sdk` |
-| [**xcrawl-cli**](https://github.com/yanxvdong123/xcrawl-cli) | CLI â€” scrape from terminal | `npx xcrawl-cli` |
+| [**xcrawl-cli**](https://github.com/yanxvdong123/xcrawl-cli) | CLI - scrape from terminal | `npx xcrawl-cli` |
 | [**xcrawl-api-server**](https://github.com/yanxvdong123/xcrawl-api-server) | REST API server for programmatic access | Deploy anywhere |
 
-### ðŸ§© Integrations
+### Integrations
 
 | Project | What it does |
 |---------|-------------|
-| [**xcrawl-github-action**](https://github.com/yanxvdong123/xcrawl-github-action) â­ | CI/CD scraping in GitHub Actions |
+| [**xcrawl-github-action**](https://github.com/yanxvdong123/xcrawl-github-action) | CI/CD scraping in GitHub Actions |
 | [**xcrawl-playwright-plugin**](https://github.com/yanxvdong123/xcrawl-playwright-plugin) | Seamless proxy for Playwright tests |
 | [**xcrawl-chrome-ext**](https://github.com/yanxvdong123/xcrawl-chrome-ext) | One-click scrape from Chrome |
 | [**xcrawl-docker**](https://github.com/yanxvdong123/xcrawl-docker) | Containerized scraping |
-| [**xcrawl-mcp-server**](https://github.com/yanxvdong123/xcrawl-mcp-server) | MCP server â€” let Claude/any AI agent scrape the web |
+| [**xcrawl-mcp-server**](https://github.com/yanxvdong123/xcrawl-mcp-server) | MCP server - let Claude/any AI agent scrape the web |
 | [**xcrawl-discord-bot**](https://github.com/yanxvdong123/xcrawl-discord-bot) | Scrape via Discord commands |
 | [**xcrawl-telegram-bot**](https://github.com/yanxvdong123/xcrawl-telegram-bot) | Scrape via Telegram |
 | [**xcrawl-huggingface**](https://github.com/yanxvdong123/xcrawl-huggingface) | Hugging Face Space demo |
 
-### ðŸ“š API Resources
+### API Resources
 
 | Project | What it does |
 |---------|-------------|
 | [**xcrawl-openapi**](https://github.com/yanxvdong123/xcrawl-openapi) | OpenAPI/Swagger spec |
 | [**xcrawl-postman**](https://github.com/yanxvdong123/xcrawl-postman) | Postman collection |
-| [**xcrawl-search-scrape-actor**](https://github.com/yanxvdong123/xcrawl-search-scrape-actor) | Apify Actor â€” search + scrape |
+| [**xcrawl-search-scrape-actor**](https://github.com/yanxvdong123/xcrawl-search-scrape-actor) | Apify Actor - search + scrape |
 | [**xcrawl-scraper-template**](https://github.com/yanxvdong123/xcrawl-scraper-template) | Quick-start scaffold |
 
 ---
 
-## âœ¨ Why XCrawl?
+## Why XCrawl?
 
 | Feature | Detail |
 |---------|--------|
-| **ðŸŒ Proxy rotation** | 50M+ residential IPs across 190+ countries |
-| **ðŸ–¥ï¸ JS rendering** | Full headless browser support â€” no more empty HTML |
-| **ðŸ¤– AI extraction** | LLM-powered data extraction from any unstructured page |
-| **ðŸ”Œ Multi-platform** | One API â†’ CLI, browser, CI/CD, bots, containers, AI agents |
-| **ðŸ“¦ Open source** | MIT licensed, free tier available, self-hostable |
-| **ðŸ”§ Modular** | Use what you need, nothing more |
+| **Proxy rotation** | 50M+ residential IPs across 190+ countries |
+| **JS rendering** | Full headless browser support - no more empty HTML |
+| **AI extraction** | LLM-powered data extraction from any unstructured page |
+| **Multi-platform** | One API -> CLI, browser, CI/CD, bots, containers, AI agents |
+| **Open source** | MIT licensed, free tier available, self-hostable |
+| **Modular** | Use what you need, nothing more |
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yanxvdong123&show_icons=true&hide_title=true&count_private=true&theme=transparent" alt="Stats"/>
@@ -100,7 +100,7 @@ pip install xcrawl-python-sdk
 ---
 
 <p align="center">
-  <b>Building XCrawl</b> Â· <a href="https://xcrawl.com">xcrawl.com</a> Â· <a href="https://github.com/yanxvdong123">GitHub</a>
+  <b>Building XCrawl</b> &middot; <a href="https://xcrawl.com">xcrawl.com</a> &middot; <a href="https://github.com/yanxvdong123">GitHub</a>
   <br/>
-  <sub>MIT Licensed Â· Free to use Â· Built with â¤ï¸</sub>
+  <sub>MIT Licensed &middot; Free to use &middot; Built with dedication</sub>
 </p>
